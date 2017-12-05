@@ -10,6 +10,6 @@ Camera Effects
 
 This is my camera Effects Project.
 
-![untitled](picture filename?raw=true "Optional Title")
+![untitled]![picture_title](picture filename?raw=true "Optional Title")
 
 ***
